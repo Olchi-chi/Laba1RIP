@@ -1,6 +1,38 @@
-{
-    "\u0430\u0430": {
-        "username": "\u0430\u0430",
-        "hashed_password": "efbeb8f6409d9548a6d2e90d93269d93207bd3ac08fd124c190689a021971df4"
+[
+    {
+        "id": 1,
+        "first_name": "aa",
+        "last_name": "a",
+        "password": "a"
+    },
+    {
+        "id": 2,
+        "first_name": "Olchi",
+        "last_name": "Bul",
+        "password": "gengar56"
+    },
+    {
+        "id": 3,
+        "first_name": "a",
+        "last_name": "a",
+        "password": "a"
+    },
+    {
+        "id": 4,
+        "first_name": "aaa",
+        "last_name": "a",
+        "password": "a"
+    },
+    {
+        "id": 5,
+        "first_name": "a",
+        "last_name": "a",
+        "password": "a"
+    },
+    {
+        "id": 6,
+        "first_name": "\u0444",
+        "last_name": "\u0444",
+        "password": "\u0444"
     }
-}
+]
